@@ -6,3 +6,4 @@ Telethon==1.40.0
 flake8
 dbt-postgres
 psycopg2-binary
+ultralytics
